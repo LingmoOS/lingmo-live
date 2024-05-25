@@ -1,0 +1,14 @@
+Source: lingmo-live
+Section: lingmo
+Priority: optional
+Maintainer: Elysia <c.elysia@foxmail.com>
+Uploaders: Elysia <c.elysia@foxmail.com>
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.5.0
+
+Package: lingmo-live
+Architecture: any
+Section: lingmo
+Priority: optional
+Depends: live-boot, calamares
+Description: Package of Lingmo's live config and calamares setting.
