@@ -13,7 +13,7 @@ strings:
     shortVersion:        2.0
     versionedName:       Lingmo 2 (polaris)
     shortVersionedName:  Lingmo 2
-    bootloaderEntryName: Lingmo
+    bootloaderEntryName: debian
     productUrl:          https://lingmo.org
     supportUrl:          https://bbs.lingmo.org/
     knownIssuesUrl:      https://bbs.lingmo.org/
