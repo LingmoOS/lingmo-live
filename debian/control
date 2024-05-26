@@ -10,5 +10,12 @@ Package: lingmo-live
 Architecture: any
 Section: lingmo
 Priority: optional
-Depends: live-boot, calamares
+Depends: calamares,
+         cryptsetup,
+         libglib2.0-bin,
+         keyutils,
+         pkexec,
+         qml-module-qtquick-window2,
+         qml-module-qtquick2,
+         ${misc:Depends}
 Description: Package of Lingmo's live config and calamares setting.
