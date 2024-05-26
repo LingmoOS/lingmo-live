@@ -1,5 +1,5 @@
 .debhelper/
-calamares-settings-debian.substvars
-calamares-settings-debian/
+calamares-settings-lingmo.substvars
+calamares-settings-lingmo/
 debhelper-build-stamp
 files

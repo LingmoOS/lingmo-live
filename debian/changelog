@@ -1,3 +1,10 @@
+lingmo-live (2.0.0-lingmo~a5) unstable; urgency=medium
+
+  [ Elysia ]
+  * Modified the removed packages
+
+ -- Elysia <c.elysia@foxmail.com>  Sun, 26 May 2024 14:53:21 +0800
+
 lingmo-live (2.0.0-lingmo~a4) unstable; urgency=medium
 
   [ Elysia ]
