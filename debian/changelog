@@ -1,6 +1,14 @@
 lingmo-live (2.0.0-lingmo~a6) unstable; urgency=medium
 
   [ Elysia ]
+  * Change icon of installer shortcut
+  * Change the mirror list in the final system
+
+ -- Elysia <c.elysia@foxmail.com>  Mon, 27 May 2024 14:53:21 +0800
+
+lingmo-live (2.0.0-lingmo~a6) unstable; urgency=medium
+
+  [ Elysia ]
   * Disable password requirement.
 
  -- Elysia <c.elysia@foxmail.com>  Mon, 27 May 2024 14:53:21 +0800
