@@ -4,7 +4,8 @@
 
 # We query xdg-user-dir because the Desktop directory has different
 # names for different languages
-DESKTOP=$(xdg-user-dir DESKTOP)
+# DESKTOP=$(xdg-user-dir DESKTOP)
+DESKTOP="/home/lingmo/Desktop"
 
 # Create ~/Desktop just in case this runs before the xdg folder
 # creation script.

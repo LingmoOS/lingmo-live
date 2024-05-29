@@ -23,4 +23,11 @@ deb-src http://debian-archive.trafficmanager.net/debian $RELEASE-backports main 
 
 EOF
 
+
+#
+# Reconfigure GRUB for theming
+#
+
+chroot ${CHROOT} /bin/bash -c "dpkg-reconfigure lingmo-grub-config"
+
 exit 0
