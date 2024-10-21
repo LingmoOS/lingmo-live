@@ -1,3 +1,10 @@
+lingmo-live (2.0.1-0) unstable; urgency=medium
+
+  [ Elysia ]
+  * Let installer use system-wide theme
+
+ -- Elysia <c.elysia@foxmail.com>  Tue, 22 Oct 2024 00:21:54 +0800
+
 lingmo-live (2.0.0-lingmo~a8) unstable; urgency=medium
 
   [ Elysia ]
