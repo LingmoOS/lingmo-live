@@ -1,4 +1,4 @@
-lingmo-live (2.0.1-5) unstable; urgency=medium
+lingmo-live (2.0.1-6+bookworm) unstable; urgency=medium
 
   [ Elysia ]
   * Set DESKTOP="/home/lingmo/Desktop"t 
