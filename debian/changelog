@@ -1,7 +1,7 @@
-lingmo-live (2.0.1-6+bookworm) unstable; urgency=medium
+lingmo-live (2.0.1-6+bookworm2) unstable; urgency=medium
 
   [ Elysia ]
-  * Set DESKTOP="/home/lingmo/Desktop"t 
+  * Set DESKTOP="/home/lingmo/Desktop"
 
  -- Elysia <c.elysia@foxmail.com>  Wed, 29 May 2024 17:32:21 +0800
 
