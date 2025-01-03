@@ -15,9 +15,9 @@ strings:
     shortVersionedName:  Lingmo 2
     bootloaderEntryName: debian
     productUrl:          https://lingmo.org
-    supportUrl:          https://bbs.lingmo.org/
-    knownIssuesUrl:      https://bbs.lingmo.org/
-    releaseNotesUrl:     https://bbs.lingmo.org/releasenotes
+    supportUrl:          https://github.com/orgs/LingmoOS/discussions
+    knownIssuesUrl:      https://github.com/orgs/LingmoOS/projects/7/views/4?filterQuery=label%3Abug+is%3Aissue
+    releaseNotesUrl:     https://lingmo.org
     donateUrl:           https://lingmo.org
 
 images:
