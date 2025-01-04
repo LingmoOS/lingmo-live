@@ -1,3 +1,10 @@
+lingmo-live (2.1.0-0+bookworm2.1) UNRELEASED; urgency=medium
+
+  * Version 2.1
+  * Fix theming issue
+
+ -- Elysia <c.elysia@foxmail.com>  Sat, 04 Jan 2025 17:34:35 +0800
+
 lingmo-live (2.0.1-6+bookworm2) unstable; urgency=medium
 
   [ Elysia ]

@@ -9,9 +9,9 @@ windowPlacement: center
 strings:
     productName:         Lingmo OS
     shortProductName:    Lingmo
-    version:             2.0 (polaris)
-    shortVersion:        2.0
-    versionedName:       Lingmo 2 (polaris)
+    version:             2.1 (Hydrogen)
+    shortVersion:        2.1
+    versionedName:       Lingmo 2 (Hydrogen)
     shortVersionedName:  Lingmo 2
     bootloaderEntryName: debian
     productUrl:          https://lingmo.org
