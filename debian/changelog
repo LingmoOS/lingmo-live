@@ -1,4 +1,4 @@
-lingmo-live (2.1.0-0+bookworm2.1) UNRELEASED; urgency=medium
+lingmo-live (2.1.0+bookworm2.1) UNRELEASED; urgency=medium
 
   * Version 2.1
   * Fix theming issue
