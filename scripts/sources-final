@@ -30,4 +30,7 @@ EOF
 
 chroot ${CHROOT} /bin/bash -c "dpkg-reconfigure lingmo-grub-config"
 
+# Regenerating Host keys
+chroot ${CHROOT} /bin/bash -c "dpkg-reconfigure openssh-server"
+
 exit 0
