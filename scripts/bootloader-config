@@ -17,6 +17,8 @@ echo "Running bootloader-config..."
 if [ -d /sys/firmware/efi/efivars ]; then
     echo " * Installing grub-efi (uefi)..."
     DEBIAN_FRONTEND=noninteractive chroot $CHROOT apt-get -y install grub-efi shim-signed efibootmgr
+    echo " * Fixing uefi dir"
+    chroot $CHROOT mkdir -p /boot/efi/EFI/debian
 else
     echo " * install grub... (bios)"
     DEBIAN_FRONTEND=noninteractive chroot $CHROOT apt-get -y install grub-pc

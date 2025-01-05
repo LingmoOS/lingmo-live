@@ -1,8 +1,9 @@
-lingmo-live (2.1.0+bookworm2.5) UNRELEASED; urgency=medium
+lingmo-live (2.1.0+bookworm2.6) UNRELEASED; urgency=medium
 
   * Version 2.1
   * Fix theming issue
   * Adding shim support
+  * Fixing uefi dir chroot $CHROOT mkdir -p /boot/efi/EFI/debian
 
  -- Elysia <c.elysia@foxmail.com>  Sat, 04 Jan 2025 17:34:35 +0800
 
