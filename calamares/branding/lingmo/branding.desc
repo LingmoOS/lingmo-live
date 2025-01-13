@@ -9,10 +9,10 @@ windowPlacement: center
 strings:
     productName:         Lingmo OS
     shortProductName:    Lingmo
-    version:             2.1 (Hydrogen)
-    shortVersion:        2.1
-    versionedName:       Lingmo 2 (Hydrogen)
-    shortVersionedName:  Lingmo 2
+    version:             3.0-rc.5 (Helium)
+    shortVersion:        3.0-rc.5
+    versionedName:       Lingmo 3.0-rc.5 (Helium)
+    shortVersionedName:  Lingmo 3.0-rc.5
     bootloaderEntryName: debian
     productUrl:          https://lingmo.org
     supportUrl:          https://github.com/orgs/LingmoOS/discussions
@@ -31,7 +31,7 @@ slideshow:               "show.qml"
 
 style:
    SidebarBackground:    "#ffffff"
-   SidebarText:          "#FFFFFF"
+   SidebarText:          ""
    SidebarTextCurrent:   "#fbfbfb"
    SidebarBackgroundCurrent: "#1E90FF"
 
