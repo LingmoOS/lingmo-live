@@ -9,10 +9,10 @@ windowPlacement: center
 strings:
     productName:         Lingmo OS
     shortProductName:    Lingmo
-    version:             2.0 (polaris)
-    shortVersion:        2.0
-    versionedName:       Lingmo 2 (polaris)
-    shortVersionedName:  Lingmo 2
+    version:             5.0 (lithium)
+    shortVersion:        5.0
+    versionedName:       Lingmo 5 (lithium)
+    shortVersionedName:  Lingmo 5
     bootloaderEntryName: debian
     productUrl:          https://lingmo.org
     supportUrl:          https://github.com/orgs/LingmoOS/discussions
